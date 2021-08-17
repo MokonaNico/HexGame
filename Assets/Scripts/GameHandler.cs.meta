@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d1002f42c2c741341aa025b97bd011b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Hexagon: {fileID: 6801979470760123365, guid: eb903ea04c1295049b626aa8c75bc623,
+      type: 3}
+  - cameraObject: {instanceID: 0}
+  - borderSquare: {instanceID: 0}
+  - gameMenu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
